@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BottomNavigation" parent="Theme.Material3.Light">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#6E003D</item>
+    </style>
+    <style name="bottom"
+        >
+        <item name="android:background">#FFFFFF</item>
+    </style>
+</resources>
